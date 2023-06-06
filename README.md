@@ -1,8 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-
 <h1 align="center">Hi 👋, I'm Navneet Shukla</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetshukl&label=Profile%20views&color=0e75b6&style=flat" alt="navneetshukl" /> </p>
@@ -19,14 +17,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/navneet-shukla-19a97a1a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navneet-shukla-19a97a1a0/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/navneet-shukla-19a97a1a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet-shukla-19a97a1a0" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://navneetsblog.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://navneetsblog.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/navneet1402" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/navneet1402" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/navneetshukla824?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/navneetshukla824?hr_r=1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/navneetshukla824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/navneetshukla824" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/navneetshukla824/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/navneetshukla824/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@navneet376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@navneet376" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/navneetshukla824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/navneetshukla824" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/navneet1402" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="navneet1402" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/navneetshukla824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="navneetshukla824" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/navneetshukla824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="navneetshukla824" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/navneetshukla824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navneetshukla824" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@navneet376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@navneet376" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/navneetshukla824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="navneetshukla824" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
