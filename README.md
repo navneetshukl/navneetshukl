@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navneetshukl" alt="navneetshukl" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Golang,Docker,AWS,Redis,React**
+- 🌱 I’m currently learning **Python,Golang,Docker,AWS,Redis,React,Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/navneetshukl](https://github.com/navneetshukl)
 
