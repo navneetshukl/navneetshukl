@@ -130,14 +130,9 @@ Python   18 mins         ▒░░░░░░░░░░░░░░░░░�
 <details>
   <summary><b>📋 Detailed Skills</b></summary>
   
-- **Programming :** Python (NumPy, Pandas, Scikit-learn, Matplotlib), C++, C, Java, JavaScript
-- **Data Science :** Tensorflow, Keras, Algorithms, NLTK, Spark ML, Git, MLOps. MLFlow, Data Wrangling, Data Science,
-Data Analysis, Modelling
-- **Data Analytics :** ETL, Databases, Data Gathering, Analysis, Data Visualization, MySQL, Tableau
-- **Cloud Technologies :** Amazon Web Services (AWS), Google Cloud (GCP), Azure, Heroku
-- **Other :** Unit Testing, CI/CD Pipeline, Linux, Creativity, Probability and Statistics, Quantitative Analysis, Strong
-Communication Skills, Research, Problem Solver, Independent, HTML, CSS, MySQL, Git, Pytorch, Image Classification,
-Object Detection, Emotion Recognition, OpenCV, Image Processing, Docker
+- **Programming :** Python, Golang, C++
+- **Cloud Technologies :** Amazon Web Services (AWS)
+- **Other :** Unit Testing, CI/CD Pipeline, Linux, Creativity, Strong Communication Skills,Problem Solver, HTML, MySQL, Git, Docker
 </details>
 
 ---
@@ -148,24 +143,24 @@ Object Detection, Emotion Recognition, OpenCV, Image Processing, Docker
 ## 🔗 Social Links
 
 <div align="center">
-  <a href="https://twitter.com/chessMan786" target="_blank">
+  <a href="https://x.com/34_shukla" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://gitlab.com/mohitmishra786" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/9848114/duke786" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohit-mishra-5b3492204/" target="_blank">
+  <a href="https://www.linkedin.com/in/navneet-shukla-19a97a1a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://mohitmishra786687.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <a href="https://hashnode.com/@navneets" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
-  <a href="https://github.com/mohitmishra786" target="_blank">
+
+  <a href="https://github.com/navneetshukl" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://leetcode.com/u/navneetshukla824/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </div>
 
 <div align="center">
