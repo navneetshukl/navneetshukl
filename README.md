@@ -93,19 +93,19 @@ const navneet = {
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-## 🔔 GitHub Metrics
+<!--## 🔔 GitHub Metrics
 <div align="center">
     <a href="https://navneetshukl.github.io/" target="_blank" title="GitHub metrics!">
         <img width="500" src="./assets/gen/metrics.svg" />
     </a>
-</div>
+</div> -->
 
 ## ⏱️ My Wakatime Stats
 <!--START_SECTION:waka-->
 
 ```txt
-Other    22 hrs 8 mins   ████████████████████████▓   98.64 %
-Python   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Other    22 hrs       ████████████████████████▓   91.67 %
+Golang   2 hrs        ▒░░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
 ```
 
 <!--END_SECTION:waka-->
@@ -120,7 +120,7 @@ Python   18 mins         ▒░░░░░░░░░░░░░░░░░�
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
   <!-- Tools -->
-  <h3>Tools & Platforms</h3>
+  <h3>Toolss</h3>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -130,9 +130,9 @@ Python   18 mins         ▒░░░░░░░░░░░░░░░░░�
 <details>
   <summary><b>📋 Detailed Skills</b></summary>
   
-- **Programming :** Python, Golang, C++
+- **Programming :** Golang, Python, C++
 - **Cloud Technologies :** Amazon Web Services (AWS)
-- **Other :** Unit Testing, CI/CD Pipeline, Linux, Creativity, Strong Communication Skills,Problem Solver, HTML, MySQL, Git, Docker
+- **Other :** Database,Computer Networks, DataStructure,Algorithms, Linux, Creativity, Strong Communication Skills,Problem Solver, HTML, MongoDB, Git, Docker
 </details>
 
 ---
