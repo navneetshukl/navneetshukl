@@ -1,17 +1,17 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to Mohit Mishra's Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to Navneet Shukla's Profile!
 </h1>
 
 <div align="center">
   
   <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=mohitmishra786&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" height="30"/>
-    <img src="https://img.shields.io/github/followers/mohitmishra786?logo=GitHub&style=for-the-badge" alt="GitHub Followers" height="30"/>
-    <img src="https://img.shields.io/github/stars/mohitmishra786?logo=github&style=for-the-badge" alt="GitHub Stars" height="30"/>
+    <img src="https://komarev.com/ghpvc/?username=navneetshukl&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" height="30"/>
+    <img src="https://img.shields.io/github/followers/navneetshukl?logo=GitHub&style=for-the-badge" alt="GitHub Followers" height="30"/>
+    <img src="https://img.shields.io/github/stars/navneetshukl?logo=github&style=for-the-badge" alt="GitHub Stars" height="30"/>
   </div>
   
   <p align="center">
-    <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Machine+Learning+Developer;I'm+a+Competitive+Programmer;I'm+a+DevOps+Enthusiast" /></a>
+    <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Backend+Developer;I'm+a+Competitive+Programmer;I'm+a+DevOps+Enthusiast" /></a>
   </p>
   
 </div>
@@ -22,13 +22,13 @@
 
 ## 🚀 About Me
 
-I am an Engineer, Learning to learn Low-Level Systems. Most of my time is spent staring at a computer screen. During the day, I am usually ... leave it.
+I am an Engineer who is curious about  how system works?. Most of my time is spent on computer screen.
 
-- 👋 Hi, I'm @mohitmishra786
-- 👀 I'm interested in Low-Level System/ Machine Learning/ Statistics
+- 👋 Hi, I'm @navneetshukl
+- 👀 I'm interested in Backend-Development
 - 🌱 I'm currently learning Compiler
 - 💞️ I'm looking to collaborate on Projects
-- ✍️ I also like to write blogs over [Medium](https://medium.com/@mohitmishra786)
+- ✍️ I also like to write blogs over [HashNode](https://hashnode.com/@navneets)
 
 <br>
 
@@ -37,37 +37,27 @@ I am an Engineer, Learning to learn Low-Level Systems. Most of my time is spent 
 #### 💻 A little more about me
 
 ```javascript
-const mohit = {
-  code: ["C", "Python", "JavaScript", "C++", "TypeScript", "Java", "R", "React.js", "Next.js"],
+const navneet = {
+  code: ["Golang", "C++", "Python"],
   askMeAbout: [
-    "Machine Learning",
-    "Deep Learning",
-    "MLOps",
     "DevOps",
-    "Frontend Development",
     "Backend Development",
     "Competitive Programming",
     "MongoDB",
     "MySQL",
     "PostgreSQL",
-    "Flask",
-    "TensorFlow",
-    "Keras",
-    "PyTorch",
     "REST APIs",
-    "GraphQL",
     "AWS",
     "Docker",
-    "Kubernetes",
     "CI/CD",
     "Data Structures",
-    "Algorithms"
+    "Algorithms",
+    "Kafka"
   ],
   technologies: {
-    frontend: ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Tailwind CSS", "Bootstrap", "Redux", "Material-UI"],
-    backend: ["Flask", "Node.js", "Express.js", "TypeScript", "MongoDB", "MySQL", "PostgreSQL", "GraphQL"],
-    devops: ["AWS", "Docker", "Kubernetes", "Jenkins", "Git", "CI/CD"],
-    machineLearning: ["TensorFlow", "Keras", "PyTorch", "Scikit-learn", "Pandas", "NumPy"]
+    frontend: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS", "Bootstrap"],
+    backend: ["Golang", "Gin", "Fiber", "MongoDB", "MySQL", "PostgreSQL"],
+    devops: ["AWS", "Docker", "Git", "CI/CD"]
   }
 };
 ```
@@ -78,7 +68,7 @@ const mohit = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohitmishra786&theme=monokai&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=navneetshukl&theme=monokai&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -86,11 +76,11 @@ const mohit = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitmishra786&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra786&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetshukl&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmishra786&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=navneetshukl&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
 </div>
 
 <br/>
@@ -98,14 +88,14 @@ const mohit = {
 ## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra786&theme=dracula" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneetshukl&theme=dracula" width="100%"/>
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 🔔 GitHub Metrics
 <div align="center">
-    <a href="https://mohitmishra786.github.io/" target="_blank" title="GitHub metrics!">
+    <a href="https://navneetshukl.github.io/" target="_blank" title="GitHub metrics!">
         <img width="500" src="./assets/gen/metrics.svg" />
     </a>
 </div>
@@ -123,15 +113,19 @@ Python   18 mins         ▒░░░░░░░░░░░░░░░░░�
 ## 🛠 Skills
 
 <div align="center">
+  <!-- Languages -->
+  <h3>Languages</h3>
+  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+  <!-- Tools -->
+  <h3>Tools & Platforms</h3>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+
 
 <details>
   <summary><b>📋 Detailed Skills</b></summary>
