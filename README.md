@@ -17,7 +17,9 @@
 </div>
 
 <div align="center">
-  <img align="center" height="280px" alt="Coding GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<!--  <img align="center" height="280px" alt="Coding GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> -->
+  <img align="center" alt="golang" height="250" width="230" src="https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif">
+
 </div>
 
 ## 🚀 About Me
