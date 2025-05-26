@@ -26,7 +26,7 @@ I am an Engineer who is curious about  how system works?. Most of my time is spe
 
 - 👋 Hi, I'm @navneetshukl
 - 👀 I'm interested in Backend-Development
-- 🌱 I'm currently learning Compiler
+- 🌱 I'm currently learning Low Level System
 - 💞️ I'm looking to collaborate on Projects
 - ✍️ I also like to write blogs over [HashNode](https://hashnode.com/@navneets)
 
@@ -75,7 +75,7 @@ const navneet = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitmishra786&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navneetshukl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetshukl&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
