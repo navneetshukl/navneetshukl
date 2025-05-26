@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-I am an Engineer who is curious about  how system works?. Most of my time is spent on computer screen.
+I am an Engineer who is curious about  how system works. Most of my time is spent on computer screen.
 
 - 👋 Hi, I'm @navneetshukl
 - 👀 I'm interested in Backend-Development
@@ -58,7 +58,7 @@ const navneet = {
   ],
   technologies: {
     frontend: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS", "Bootstrap"],
-    backend: ["Golang", "Gin", "Fiber", "MongoDB", "MySQL", "PostgreSQL"],
+    backend: ["Golang", "Gin", "Fiber", "MongoDB",  "PostgreSQL", "MySQL"],
     devops: ["AWS", "Docker", "Git", "CI/CD"]
   }
 };
@@ -122,7 +122,7 @@ Golang   2 hrs        ▒░░░░░░░░░░░░░░░░░░�
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
   <!-- Tools -->
-  <h3>Toolss</h3>
+  <h3>Tools</h3>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
