@@ -112,6 +112,12 @@ Golang   2 hrs        ▒░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+<h3 align="left"><a href="https://wakatime.com/@navneetshukl" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="navneetshukl" height="30" width="30" /></a>
+ WakaTime Activity: <img align="center" src="https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg" alt="navneetshukl" />
+ </h3>
+<img align="center" src="https://wakatime.com/share/@navneetshukl/eb074acc-ab2c-4c3d-af6a-d18a0fbb0cbe.svg" alt="mohammadhasanii" />
+
 ## 🛠 Skills
 
 <div align="center">
