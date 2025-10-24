@@ -59,7 +59,7 @@ const navneet = {
   technologies: {
     frontend: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS", "Bootstrap"],
     backend: ["Golang", "Gin", "Fiber", "MongoDB",  "PostgreSQL", "MySQL"],
-    devops: ["AWS", "Docker", "Git", "CI/CD"]
+    devops: ["AWS", "Docker","Kubernetes", "Git", "CI/CD"]
   }
 };
 ```
