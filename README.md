@@ -54,7 +54,8 @@ const navneet = {
     "CI/CD",
     "Data Structures",
     "Algorithms",
-    "Kafka"
+    "Kafka",
+    "Kubernetes",
   ],
   technologies: {
     frontend: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS", "Bootstrap"],
