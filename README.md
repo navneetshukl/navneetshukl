@@ -170,22 +170,8 @@ Golang   2 hrs        ▒░░░░░░░░░░░░░░░░░░�
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Technologies</b></summary>
-<br/>
-
-<div align="center">
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 </details>
@@ -202,6 +188,19 @@ Golang   2 hrs        ▒░░░░░░░░░░░░░░░░░░�
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Frameworks & Libraries</b></summary>
+<br/>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 </details>
@@ -241,12 +240,14 @@ Golang   2 hrs        ▒░░░░░░░░░░░░░░░░░░�
 - **Python**
 - **C++**
 - JavaScript
+- HTML & CSS
 
 ### Backend Development
 - REST API Design
 - Microservices Architecture
 - Database Design
 - Message Queuing (Kafka)
+- Gin & Fiber Frameworks
 
 ### DevOps & Cloud
 - Amazon Web Services (AWS)
@@ -263,6 +264,12 @@ Golang   2 hrs        ▒░░░░░░░░░░░░░░░░░░�
 - **Database Management**
 - System Design
 - Linux Administration
+- Competitive Programming
+
+### Frontend Skills
+- React.js
+- Tailwind CSS
+- Bootstrap
 
 ### Soft Skills
 - Problem Solving
@@ -270,11 +277,6 @@ Golang   2 hrs        ▒░░░░░░░░░░░░░░░░░░�
 - Team Collaboration
 - Creativity
 - Continuous Learning
-
-### Databases
-- MongoDB
-- PostgreSQL
-- MySQL
 
 </td>
 </tr>
@@ -337,37 +339,35 @@ building: "Scalable Backend Services"
 
 ---
 
-## 💻 Coding Profiles & Competitive Programming
+## 💭 Random Dev Quote
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🏅 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/navneetshukla824?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/navneetshukla824/)
+</div>
 
-</td>
-<td align="center" width="50%">
+<br/>
 
-### 📊 Problem Solving Journey
+---
+
+## 🎓 Learning & Development Path
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Backend Development] --> B[Golang Mastery]
+    A --> C[System Design]
+    B --> D[Microservices]
+    C --> D
+    D --> E[Cloud Native]
+    E --> F[Kubernetes]
+    E --> G[AWS Services]
+    D --> H[DevOps Practices]
+    H --> I[CI/CD]
+    H --> J[Docker]
 ```
-🎯 Focus Areas:
-   • Data Structures
-   • Algorithms
-   • System Design
-   • Competitive Programming
-
-💪 Daily Practice:
-   • Solving coding challenges
-   • Optimizing solutions
-   • Learning new patterns
-```
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -408,42 +408,6 @@ building: "Scalable Backend Services"
 </td>
 </tr>
 </table>
-
-</div>
-
-<br/>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br/>
-
----
-
-## 🎓 Learning & Development Path
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Backend Development] --> B[Golang Mastery]
-    A --> C[System Design]
-    B --> D[Microservices]
-    C --> D
-    D --> E[Cloud Native]
-    E --> F[Kubernetes]
-    E --> G[AWS Services]
-    D --> H[DevOps Practices]
-    H --> I[CI/CD]
-    H --> J[Docker]
-```
 
 </div>
 
