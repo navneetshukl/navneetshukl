@@ -104,14 +104,9 @@ const navneet = {
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td colspan="2" align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navneetshukl&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-  
-</td>
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneetshukl&theme=dracula&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=navneetshukl&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
   
 </td>
 </tr>
