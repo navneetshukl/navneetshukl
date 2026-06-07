@@ -299,7 +299,7 @@ building: "Scalable Backend Services"
 </td>
 <td width="50%">
 
-### 🌟 Goals for 2025
+### 🌟 Goals for 2026
 ```yaml
 - Master Kubernetes & Cloud Architecture
 - Contribute to Open Source Projects
